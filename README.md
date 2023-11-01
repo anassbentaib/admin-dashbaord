@@ -2,6 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+# admin dashboard 
+# full stack project
+# TypeScript NodeJs Prismadb Mongodb NextJs
 First, run the development server:
 
 ```bash
